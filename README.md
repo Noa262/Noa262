@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Noa262
-- 👀 I’m interested in becomming a programmer
+- 👋 Hi, I’m @Noa
+- 👀 I’m interested in becomming a programmer and learning how to code. 
 - 🌱 I’m currently starting to learn coding 
-- 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me by discord: noah6353
 - ⚡ Fun fact: I'm playing lot's of games and yet i manage to study along with playing acustic guitar.
 
